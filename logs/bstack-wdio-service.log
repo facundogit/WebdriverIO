@@ -1,0 +1,142 @@
+[90m2024-05-12T23:42:49.633Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Sending SDK event with data {
+  userName: 'facundobalbuena_jwcS9Y',
+  accessKey: 'VVRrtWS9L46TVixJqMWW',
+  event_type: 'SDKTestAttempted',
+  detectedFramework: 'WebdriverIO-mocha',
+  event_properties: {
+    language_framework: 'WebdriverIO_mocha',
+    referrer: 'WebdriverIO-mocha/8.36.1',
+    language: 'WebdriverIO',
+    languageVersion: 'v22.1.0',
+    buildName: 'undefined',
+    buildIdentifier: 'undefined',
+    os: 'Darwin',
+    hostname: 'ARRMS-Q32L93F7D7.local',
+    productMap: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false
+    },
+    product: [ 'observability', 'automate' ]
+  }
+}
+[90m2024-05-12T23:42:51.055Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Funnel event success
+[90m2024-05-12T23:42:51.055Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m app is not defined in browserstack-service config, skipping ...
+[90m2024-05-12T23:42:51.057Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Sending launch start event
+[90m2024-05-12T23:42:52.363Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m You do not have access to Test observability hence tests will not be pushed to Test Observability. Please request owner or admin for access through https://www.browserstack.com/accounts/manage-users/invitations
+[90m2024-05-12T23:42:52.364Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m browserstackLocal is not enabled - skipping...
+[90m2024-05-12T23:43:00.238Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Requesting Browserstack session URL at https://api.browserstack.com/automate/sessions/7dc5534bdff044e407caa06f452c9cd3296317ba.json
+[90m2024-05-12T23:43:01.030Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m chrome 124.0.6367.61 session: https://automate.browserstack.com/builds/de4f8eb17a9e7ae9d6d655741d6977f75751d07c/sessions/7dc5534bdff044e407caa06f452c9cd3296317ba
+[90m2024-05-12T23:43:01.040Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m Update job with sessionId 7dc5534bdff044e407caa06f452c9cd3296317ba
+[90m2024-05-12T23:43:01.040Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Updating Browserstack session at https://api.browserstack.com/automate/sessions/7dc5534bdff044e407caa06f452c9cd3296317ba.json with request body: 
+[90m2024-05-12T23:43:01.624Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Requesting Browserstack session URL at https://api.browserstack.com/automate/sessions/c930b496b728fdb19969ce6a6f16439e6f0a01cd.json
+[90m2024-05-12T23:43:02.418Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m chrome 124.0.6367.61 session: https://automate.browserstack.com/builds/de4f8eb17a9e7ae9d6d655741d6977f75751d07c/sessions/c930b496b728fdb19969ce6a6f16439e6f0a01cd
+[90m2024-05-12T23:43:02.430Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m Update job with sessionId c930b496b728fdb19969ce6a6f16439e6f0a01cd
+[90m2024-05-12T23:43:02.432Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Updating Browserstack session at https://api.browserstack.com/automate/sessions/c930b496b728fdb19969ce6a6f16439e6f0a01cd.json with request body: 
+[90m2024-05-12T23:43:02.834Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m Update job with sessionId c930b496b728fdb19969ce6a6f16439e6f0a01cd
+[90m2024-05-12T23:43:02.834Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Updating Browserstack session at https://api.browserstack.com/automate/sessions/c930b496b728fdb19969ce6a6f16439e6f0a01cd.json with request body: 
+[90m2024-05-12T23:43:03.275Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m Update job with sessionId 7dc5534bdff044e407caa06f452c9cd3296317ba
+[90m2024-05-12T23:43:03.275Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Updating Browserstack session at https://api.browserstack.com/automate/sessions/7dc5534bdff044e407caa06f452c9cd3296317ba.json with request body: 
+[90m2024-05-12T23:43:07.775Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m calling testFinished
+[90m2024-05-12T23:43:07.777Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Accessibility after test hook. Before sending test stop event
+[90m2024-05-12T23:43:08.967Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m Update job with sessionId 7dc5534bdff044e407caa06f452c9cd3296317ba
+[90m2024-05-12T23:43:08.968Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Updating Browserstack session at https://api.browserstack.com/automate/sessions/7dc5534bdff044e407caa06f452c9cd3296317ba.json with request body: 
+[90m2024-05-12T23:43:13.974Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m calling testFinished
+[90m2024-05-12T23:43:13.975Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Accessibility after test hook. Before sending test stop event
+[90m2024-05-12T23:43:15.179Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m Update job with sessionId 7dc5534bdff044e407caa06f452c9cd3296317ba
+[90m2024-05-12T23:43:15.180Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Updating Browserstack session at https://api.browserstack.com/automate/sessions/7dc5534bdff044e407caa06f452c9cd3296317ba.json with request body: 
+[90m2024-05-12T23:43:17.534Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m calling testFinished
+[90m2024-05-12T23:43:17.534Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Accessibility after test hook. Before sending test stop event
+[90m2024-05-12T23:43:17.820Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m calling testFinished
+[90m2024-05-12T23:43:17.826Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Accessibility after test hook. Before sending test stop event
+[90m2024-05-12T23:43:17.843Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m Update job with sessionId c930b496b728fdb19969ce6a6f16439e6f0a01cd
+[90m2024-05-12T23:43:17.844Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Updating Browserstack session at https://api.browserstack.com/automate/sessions/c930b496b728fdb19969ce6a6f16439e6f0a01cd.json with request body: 
+[90m2024-05-12T23:43:18.637Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m Update job with sessionId 7dc5534bdff044e407caa06f452c9cd3296317ba
+[90m2024-05-12T23:43:18.637Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Updating Browserstack session at https://api.browserstack.com/automate/sessions/7dc5534bdff044e407caa06f452c9cd3296317ba.json with request body: 
+[90m2024-05-12T23:43:18.670Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m teardown started
+[90m2024-05-12T23:43:18.671Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m teardown ended
+[90m2024-05-12T23:43:21.091Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m calling testFinished
+[90m2024-05-12T23:43:21.092Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Accessibility after test hook. Before sending test stop event
+[90m2024-05-12T23:43:22.289Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m Update job with sessionId 7dc5534bdff044e407caa06f452c9cd3296317ba
+[90m2024-05-12T23:43:22.289Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Updating Browserstack session at https://api.browserstack.com/automate/sessions/7dc5534bdff044e407caa06f452c9cd3296317ba.json with request body: 
+[90m2024-05-12T23:43:23.540Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m calling testFinished
+[90m2024-05-12T23:43:23.541Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Accessibility after test hook. Before sending test stop event
+[90m2024-05-12T23:43:23.554Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m Update job with sessionId 7dc5534bdff044e407caa06f452c9cd3296317ba
+[90m2024-05-12T23:43:23.555Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Updating Browserstack session at https://api.browserstack.com/automate/sessions/7dc5534bdff044e407caa06f452c9cd3296317ba.json with request body: 
+[90m2024-05-12T23:43:23.982Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m teardown started
+[90m2024-05-12T23:43:23.983Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m teardown ended
+[90m2024-05-12T23:43:29.780Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Inside OnComplete hook..
+[90m2024-05-12T23:43:29.780Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Sending stop launch event
+[90m2024-05-12T23:43:29.781Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Reading worker file worker-data-81929.json
+[90m2024-05-12T23:43:29.781Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Reading worker file worker-data-81930.json
+[90m2024-05-12T23:43:29.787Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Sending SDK event with data {
+  userName: 'facundobalbuena_jwcS9Y',
+  accessKey: 'VVRrtWS9L46TVixJqMWW',
+  event_type: 'SDKTestSuccessful',
+  detectedFramework: 'WebdriverIO-mocha',
+  event_properties: {
+    language_framework: 'WebdriverIO_mocha',
+    referrer: 'WebdriverIO-mocha/8.36.1',
+    language: 'WebdriverIO',
+    languageVersion: 'v22.1.0',
+    buildName: 'undefined',
+    buildIdentifier: 'undefined',
+    os: 'Darwin',
+    hostname: 'ARRMS-Q32L93F7D7.local',
+    productMap: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false
+    },
+    product: [ 'observability', 'automate' ],
+    productUsage: {
+      testObservability: {
+        enabled: true,
+        manuallySet: false,
+        buildHashedId: undefined,
+        events: {
+          buildEvents: {
+            started: {
+              isTriggered: true,
+              status: 'failed',
+              error: 'Response code 403 (Forbidden)'
+            },
+            finished: {
+              isTriggered: true,
+              status: 'failed',
+              error: 'Build is not completed yet'
+            }
+          },
+          testEvents: {
+            started: { triggeredCount: 6, sentCount: 0, failedCount: 0 },
+            finished: { triggeredCount: 6, sentCount: 0, failedCount: 0 },
+            passed: { triggeredCount: 6, sentCount: 0, failedCount: 0 }
+          },
+          hookEvents: {
+            started: { triggeredCount: 5, sentCount: 0, failedCount: 0 },
+            finished: { triggeredCount: 5, sentCount: 0, failedCount: 0 },
+            passed: { triggeredCount: 5, sentCount: 0, failedCount: 0 }
+          },
+          logEvents: {
+            triggeredCount: 39,
+            sentCount: 0,
+            failedCount: 0,
+            log: { triggeredCount: 5, sentCount: 0, failedCount: 0 },
+            http: { triggeredCount: 34, sentCount: 0, failedCount: 0 }
+          },
+          cbtSessionEvents: { triggeredCount: 0, sentCount: 0, failedCount: 0 }
+        }
+      }
+    }
+  }
+}
+[90m2024-05-12T23:43:31.144Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Funnel event success
+[90m2024-05-12T23:43:31.144Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m If facing any issues, please contact BrowserStack support with the Build Run Id - c325e3a0-f245-483f-8cb4-1c73aeedd54a
+[90m2024-05-12T23:43:32.200Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Response - {
+  status: 'success',
+  message: 'Logs upload successful in file - logs.gz'
+}
